@@ -1,0 +1,57 @@
+
+Coincidencia con Autor: AngelC
+Porcentaje de similitud: 83.60%
+
+Detalles de la similitud:
+- sentence_length_similarity: 0.89
+- word_length_similarity: 0.96
+- unique_words_similarity: 0.99
+- common_words_similarity: 0.10
+- spelling_patterns_similarity: 1.00
+
+Patrones de errores ortográficos encontrados:
+
+b_v:
+  verdaderamente -> berdaderamente
+  bancario -> vancario
+  valiosa -> baliosa
+
+h_silent:
+  escribir -> hescribir
+  esta -> hesta
+  evaluación -> hevaluación
+  ha -> a
+  estado -> hestado
+
+ll_y:
+  y -> ll
+  y -> ll
+  y -> ll
+  y -> ll
+  y -> ll
+
+s_c_z:
+  complace -> complase
+  evaluación -> evaluasión
+  meses. -> meces.
+  transición -> transisión
+  transición -> trancición
+
+g_j:
+  aprendizaje -> aprendizage
+  metodológico -> metodolójico
+  ejemplo -> egemplo
+
+tildes:
+  me -> mé
+  complace -> compláce
+  complace -> complacé
+  complace -> cómplace
+  escribir -> éscribir
+
+puntuacion:
+  gonzález, -> gonzález
+  datos, -> datos
+  datos, -> datos
+  además, -> además
+  conclusión, -> conclusión
